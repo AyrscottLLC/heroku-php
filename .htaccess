@@ -1,3 +1,5 @@
+Header always set X-Frame-Options "SAMEORIGIN"
+
 # The following .htaccess snippet is mentioned in the Heroku SSL docs....
 # https://help.heroku.com/J2R1S4T8/can-heroku-force-an-application-to-use-ssl-tls
 # https://stackoverflow.com/a/34065445
