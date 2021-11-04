@@ -1,2 +1,2 @@
 # heroku-php
-Minamilist Heroku PHP skeleton for creating new apps
+Minamilist Heroku PHP skeleton for creating bespoke applications
