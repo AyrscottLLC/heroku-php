@@ -14,6 +14,6 @@
     <title>Document</title>
 </head>
 <body>
-    Hello world!
+    Hello Heroku!
 </body>
 </html>
