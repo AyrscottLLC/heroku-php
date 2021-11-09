@@ -1,0 +1,10 @@
+{
+    "name": "ayrscott/heroku-php",
+    "authors": [
+        {
+            "name": "Jared",
+            "email": "jared@ayrscott.com"
+        }
+    ],
+    "require": {}
+}
